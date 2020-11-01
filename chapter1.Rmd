@@ -1,7 +1,7 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+*This is an Introduction open data science MOOC 2020 course. I'm a beginner with R, and happy to learn more about it. A link to my GitHub repository is https://github.com/stormalehto/IODS-project*
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
